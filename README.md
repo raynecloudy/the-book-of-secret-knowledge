@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/trimstray/the-book-of-secret-knowledge">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/raynecloudy/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview-light.png" alt="Master">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview-light.png" alt="Master">
       <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-book-of-secret-knowledge-preview.png" alt="Master">
     </picture>
   </a>
